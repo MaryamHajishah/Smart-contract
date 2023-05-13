@@ -14,10 +14,6 @@ Also, three modifiers are used;
 
 Note: It is assumed that only people with an account can call the functions, so no need to check for wallet existance when calling other functions except when creating one. 
 
-## Structure
-
-The answer to question1 exists in file Q1.txt
-The code of question2 exists in hw3WithModifier.sol file.
 
 ## Etherscan link
 
