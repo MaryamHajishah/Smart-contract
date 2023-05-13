@@ -1,7 +1,7 @@
-# HomeWork #3
+# A simple smart contract
 
 ## 
-In this assignment a simple smart contract is created. 
+In this sample, a simple smart contract is created. 
 Once the code is deployed, three functions could be used;
  1. A function to create a wallet.
  2. A function to exchange a blue coin with two red coins.To exchange more than one blue coin, it should be called multiple times depending on the number of desired coins.
